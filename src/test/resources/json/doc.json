@@ -1,0 +1,9 @@
+{
+  "id": "file",
+  "value": "File",
+  "popup": {
+    "menuitem": [
+      "value","onclick"
+    ]
+  }
+}
